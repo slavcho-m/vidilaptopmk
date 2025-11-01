@@ -1,0 +1,3 @@
+This is backend project folder.
+
+For each microservice, a seperate folder should be created and a new Springboot project should be initialized in the said folder
